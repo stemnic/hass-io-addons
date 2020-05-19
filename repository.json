@@ -1,5 +1,5 @@
 {
-  "name": "Hass.IO add-on repository by da-anda",
-  "url": "https://github.com/da-anda/hass-io-addons",
-  "maintainer": "Franz Koch"
+  "name": "Hass.IO add-on repository for stemnic",
+  "url": "https://github.com/stemnic/hass-io-knxd-addon",
+  "maintainer": "Stemnic"
 }
